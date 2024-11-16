@@ -1,18 +1,18 @@
-/**
-  |============================
-  | include css partials with
-  | default @import url()
-  |============================
-*/
-/* Common styles */
-@import url('./reset.css');
-@import url('./base.css');
-@import url('./container.css');
-@import url('./animations.css');
+@import url('./partials/header.css');
+@import url('./partials/hero.css');
+@import url('./partials/about.css');
+@import url('./partials/menu.css');
+@import url('./partials/subscribe.css');
+@import url('./partials/customers.css');
+@import url('./partials/footer.css');
+@import url('./partials/scroll.css');
+@import url('./partials/modal.css');
 
-/* Sections style */
-@import url('./header.css');
-@import url('./vite-promo.css');
-@import url('./badges.css');
-@import url('./back-link.css');
-@import url('./footer.css');
+/* Base styles */
+@import url('./base/base.css');
+@import url('./base/container.css');
+@import url('./base/reset.css');
+@import url('./base/btn.css');
+
+/* Utils styles */
+@import url('./utils/veriables.css');

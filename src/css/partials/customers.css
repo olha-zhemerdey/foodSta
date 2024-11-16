@@ -1,0 +1,51 @@
+.customers {
+    padding-top: 140px;
+    padding-bottom: 126px;
+    background: #ffe550;
+  }
+  
+  .customers-title {
+    font-size: 42px;
+    margin-bottom: 20px;
+  }
+  
+  .customers-text {
+    font-size: 16px;
+    margin-bottom: 32px;
+  }
+  
+  .customers-list {
+    display: flex;
+    gap: 139px;
+  }
+  
+  .customers-item {
+    padding: 14px;
+    background-color: #fefefe;
+    width: 473px;
+    border-radius: 0 30px 30px 30px;
+  }
+  
+  .customers-description {
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 40px;
+  }
+  
+  .customers-subtitle {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.5;
+    margin-bottom: 2px;
+  }
+  .customers-name {
+    line-height: 1.5;
+  }
+  
+  .customers-wrapper {
+    display: flex;
+    border-right: 1px solid #7eb101;
+    width: 160px;
+    gap: 16px;
+    align-items: center;
+  }

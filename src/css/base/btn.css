@@ -1,0 +1,22 @@
+.btn {
+    min-width: 98px;
+    height: 32px;
+    padding: 6px 17px;
+  
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 1.5;
+    border-radius: 30px;
+    border: none;
+  
+    color: var(--text-color-primary);
+    background-color: var(--highlight-color);
+    outline: transparent;
+    cursor: pointer;
+    transition: background-color 250ms ease, outline 250ms ease;
+  }
+  
+  .btn:hover,
+  .btn:focus {
+    background-color: var(--background-yellow);
+  }

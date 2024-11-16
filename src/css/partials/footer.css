@@ -1,0 +1,127 @@
+
+.footer {
+    box-shadow: 0 -4px 24px 0 rgba(105, 105, 105, 0.1);
+    background: #fefefe;
+    padding: 100px 0;
+    background-image: url(../images/footer-bg-min.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: 1211px;
+  }
+  
+  .footer-wrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 80px;
+    justify-content: space-between;
+  }
+  
+  .container-footer {
+  
+  }
+  
+  .footer-link {
+  }
+  
+  .footer-list {
+    display: flex;
+    gap: 28px;
+  }
+  
+  .footer-item {
+    font-weight: 400;
+    font-size: 14px;
+    color: #2c2c2c;
+  }
+  
+  .footer-subtitle {
+    margin-bottom: 12px;
+  }
+  
+  .footer-form {
+    display: flex;
+    gap: 13px;
+    margin-bottom: 12px;
+  }
+  .footer-input {
+    border: 0.85px solid #ffe550;
+    border-radius: 30px;
+    padding: 10px;
+    width: 279px;
+    height: 42px;
+    background-color: #fefefe;
+  }
+  
+  input::placeholder {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 1.5;
+    color: #505050;
+  }
+  
+  .footer-btn {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 1.5;
+    color: #2c2c2c;
+    cursor: pointer;
+    border-radius: 30px;
+    border: 2px solid #7eb101;
+    padding: 10px 20px;
+    min-width: 103px;
+    height: 42px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+  }
+  
+  .footer-btn:hover {
+    background-color: #bbf330;
+    border: none;
+  }
+  
+  .footer-btn:focus {
+    background-color: #bbf330;
+    border: none;
+  }
+  
+  .footer-text-policy {
+  }
+  
+  .footer-policy {
+    text-decoration: underline;
+    color: #7eb101;
+  }
+  
+  .footer-policy-list {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .footer-policy-item {
+    font-weight: 400;
+    font-size: 12px;
+    text-decoration: underline;
+    text-decoration-skip-ink: none;
+    color: #7eb101;
+  }
+  
+  .footer-text-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  }
+  
+  .footer-text-reserved {
+  }
+  .footer-form-wrapper {
+  
+  }
+  
+  .footer-nav-wrap {
+  display: flex;
+  gap: 143px;
+  align-items: center;
+  }
+  

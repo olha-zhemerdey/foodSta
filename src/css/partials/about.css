@@ -1,0 +1,100 @@
+
+.about {
+  padding-top: 113px;
+  padding-bottom: 124px;
+  background-color: #ffe550;
+}
+
+.about-container {
+  display: flex;
+  align-items: center;
+}
+
+.about-wrapper {
+  width: 573px;
+  margin-left: 90px;
+}
+
+.about-title {
+  font-size: 42px;
+  line-height: 1.2;
+  margin-bottom: 32px;
+}
+/* I've got 20px */
+
+.about-text {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 28px;
+}
+/* margin-bottom: 40px; */
+
+.about-list {
+  display: flex;
+  gap: 67px;
+  margin-bottom: 32px;
+}
+
+.about-item {
+}
+
+.about-subtitle {
+  font-size: 18px;
+  line-height: 1.4;
+  margin-bottom: 16px;
+}
+
+.about-description {
+  line-height: 1.5;
+  color: #2c2c2c;
+}
+
+.about-btn {
+  border: 2px solid #7eb101;
+  border-radius: 30px;
+  padding: 10px 20px;
+  min-width: 106px;
+  height: 40px;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+}
+
+/* button is of different size */
+/* image apple bottom */
+
+.about-btn:hover {
+  background-color: #bbf330;
+  border: none;
+}
+
+.about-btn:focus {
+  background-color: #bbf330;
+  border: none;
+}
+
+.about-img {
+  margin-top: -150px;
+}
+
+.about-img-wrap{
+  border-radius: 100%;
+background-color: #fefefe;
+width: 502px;
+height: 502px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.about-wrapper-img {
+  border-radius: 100%;
+  border: 5px solid rgba(255, 255, 255, 0.5);
+  width: 550px;
+  height: 550px;
+  display: flex;
+justify-content: center;
+align-items: center;
+}
+  
+  

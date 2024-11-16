@@ -1,0 +1,23 @@
+
+.modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 458px;
+    height: 449px;
+    padding: 32px;
+    border-radius: 30px;
+    box-shadow: 0 4px 4px 0 rgba(0,0, 0, 0.06);
+  overflow-y: auto;
+  transform: translate(-50%, -50%);
+  transition: transform 250ms ease;
+  }
+  
+  .modal-btn-close {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+  }
+  
+  
+  

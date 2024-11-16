@@ -1,0 +1,15 @@
+:root {
+	/* Colors */
+	--background-yellow: #ffe550;
+	--white-color-primary: #ffffff;
+	--text-color-link: #7eb101;
+	--text-color-primary: #2c2c2c;
+	--text-placeholder: #c4c4c4;
+	--white-color-secondary: #fefefe;
+	--highlight-color: #bbf330;
+
+	  /* Transition styles */
+	--duration-primary: 250ms;
+	--timing-function-primary: cubic-bezier(0.4, 0, 0.2, 1);
+}
+
